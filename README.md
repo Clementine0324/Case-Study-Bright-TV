@@ -1,2 +1,2 @@
 # Case-Study-Bright-TV
-Case study for the bright Tv that influences the increase viewership
+This case study examines Bright TV’s audience trends over a four-month period (January–April 2016). Leveraging BigQuery and Snowflake SQL syntax, we extracted the raw data and built pivot tables and visuals in Excel to illustrate our findings. Our analysis covers viewership patterns by province, age group, gender, time slot and channel. We also explored how factors such as geographic location, product positioning, demographics, social media activity and family influence affect audience engagement. Finally, we offer targeted recommendations like boosting interactive user campaigns to drive further increases in viewership.
